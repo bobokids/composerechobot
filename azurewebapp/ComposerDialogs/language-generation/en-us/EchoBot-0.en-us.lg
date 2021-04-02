@@ -4,4 +4,4 @@
 - ${WelcomeUser()}
 
 # SendActivity_003038
-- You said '${turn.activity.text}'
+- You said in composer '${turn.activity.text}'
